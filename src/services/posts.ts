@@ -1,9 +1,9 @@
-import api from "./api"
+import api from './api'
 
 export const getPosts = () => {
-    //api.get("/posts")
+  //api.get("/posts")
 }
 
 export default {
-    getPosts
+  getPosts,
 }
