@@ -1,6 +1,6 @@
 import api from "./api"
 
-export const getPosts = () =>{
+export const getPosts = () => {
     //api.get("/posts")
 }
 
